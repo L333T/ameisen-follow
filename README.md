@@ -1,4 +1,4 @@
-# ameisen-follow
+# auto-bg
 
 Build output for the **Master Farmer** launcher - do not edit by hand.
 The files are obfuscated; the readable source is not published.
